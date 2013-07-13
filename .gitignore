@@ -1,0 +1,7 @@
+# Archives
+*.deb
+*.tar.*
+
+# Folders
+pkg
+src
